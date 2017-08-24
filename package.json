@@ -9,12 +9,10 @@
   },
   "author": "Dhaval Gala",
   "license": "ISC",
-  "devDependencies": {
-    "body-parser": "^1.17.2",
-    "nodemon": "^1.11.0"
-  },
   "dependencies": {
     "express": "^4.15.4",
-    "mongoose": "^4.11.7"
+    "mongoose": "^4.11.7",
+    "body-parser": "^1.17.2",
+    "nodemon": "^1.11.0"
   }
 }
